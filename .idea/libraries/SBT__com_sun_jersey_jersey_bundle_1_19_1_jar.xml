@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: com.sun.jersey:jersey-bundle:1.19.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.sun.jersey/jersey-bundle/jars/jersey-bundle-1.19.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
